@@ -1,7 +1,7 @@
 import { useContext } from 'react';
 import CloseIcon from "@mui/icons-material/Close";
 import {CircularProgress, Dialog, DialogContent, setRef} from "@mui/material";
-import {pascalCaseWord} from "../utils/textUtils";
+import {pascalCaseWord} from "../utils/textUtils.js";
 import INSITUTION_TYPE from "../types/institutionType.js";
 import COLLABORATION_SCORE from "../types/collaborationScore";
 

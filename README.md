@@ -54,7 +54,7 @@ The application helps users track and organize visits to healthcare companies su
    git clone https://github.com/petaaar88/crms-backend.git
    ```
    ```
-   cd project
+   cd crms-backend
    ```
    Follow the backend’s own setup instructions, then start it.
 
@@ -139,12 +139,12 @@ Shows user details and activities for current day.
 
 ### Partners and Reports
 ![Partners and reports list with filters](/docs/images/11.png "Partners and Reports")
-Browse partners, filter results, and access downloadable reports.
+Browse partners and filter results.
 
 ### Mobile View
 ![Responsive mobile layout of the dashboard](/docs/images/12.png "Mobile View")
 
-Mobile-optimized view demonstrating responsive navigation and cards.
+Mobile optimized view demonstrating responsive dashboard.
 
 ### Create Partner
 ![Create partner form with contact and company fields](/docs/images/13.png "Create Partner")
